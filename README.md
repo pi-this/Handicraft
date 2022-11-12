@@ -1,5 +1,5 @@
 # Handicraft
 open your creativity with Handicraft
 
-![intro](https://user-images.githubusercontent.com/114669697/201445886-34019f6e-16e9-4ecb-b666-65d88d699f13.png)
+![image](https://user-images.githubusercontent.com/114669697/201449196-9fd20d47-eb39-4e0d-a4f2-8f87290ffaf5.png)
 
