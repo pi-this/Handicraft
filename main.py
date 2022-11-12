@@ -263,7 +263,7 @@ class ImageGenerator:
         self.xold = event.x
         self.yold = event.y
     def homepage(self):
-        link("http:172.25.100.73/handicraft1.10.html")
+        link("https://pi-this.github.io/handicraft.html")
     def Quit(self):
         root.destroy()
     
