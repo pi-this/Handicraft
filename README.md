@@ -6,4 +6,3 @@ open your creativity with Handicraft
 
 
 
-[Handicraft.pdf](https://github.com/pi-this/Handicraft/files/11712618/Handicraft.pdf)
