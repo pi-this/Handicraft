@@ -2,6 +2,7 @@
 Open your creativity with Handicraft
 
 ## Handicraft 1.4
+<img width="600" height="749" alt="image" src="https://github.com/user-attachments/assets/f3421751-487c-4731-a445-b33705848e61" />
 
 ### What New?
 
